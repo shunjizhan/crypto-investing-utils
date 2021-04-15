@@ -1,0 +1,12 @@
+{
+  "name": "pancakeswap-lottery-expectation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:shunjizhan/pancakeswap-lottery-expectation.git",
+  "author": "shunji <shunhahaha@live.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "table": "^6.0.9"
+  }
+}
