@@ -1,12 +1,15 @@
 {
-  "name": "pancakeswap-lottery-expectation",
+  "name": "crypto-investing-utils",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:shunjizhan/pancakeswap-lottery-expectation.git",
+  "repository": "git@github.com:shunjizhan/crypto-investing-utils.git",
   "author": "shunji <shunhahaha@live.com>",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.21.1",
+    "keccak": "^3.0.1",
+    "randombytes": "^2.0.6",
+    "secp256k1": "^3.8.0",
     "table": "^6.0.9"
   }
 }
